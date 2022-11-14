@@ -23,7 +23,7 @@ OBS: O WinnerID é definido pelo id do país na tabela países
 
 GET:/guess
 
-Lista todos os palpites daquele usuário. Necessário ter uma sessão ativa para validar o usuário.
+Lista a quantidade de palpites daquele usuário. Necessário ter uma sessão ativa para validar o usuário.
 
 DELETE: /guess/:guessid
 
